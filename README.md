@@ -2,6 +2,7 @@
 
 react를 이용한 단일페이지 로그인, 회원가입, 비밀번호 변경 컴포넌트이다.
 ![enter image description here](./src/images/signIn.PNG)
+![enter image description here](./src/images/signUp.PNG)
 
 ##  Contents
 - 개발 환경
